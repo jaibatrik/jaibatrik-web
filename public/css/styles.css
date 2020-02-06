@@ -411,3 +411,7 @@ a.noline:hover {
 .portfolio .portfolio-item:hover h3:after {
   width: 100%;
 }
+
+.profile-picture {
+  max-width: 312px;
+}
